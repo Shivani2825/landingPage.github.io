@@ -261,3 +261,7 @@ ul li a:hover {
     padding-left: 14px;
     padding-top: 5px;
 }
+
+.icon1 ion-icon:hover {
+    color: #ff7200;
+}
