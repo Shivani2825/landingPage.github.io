@@ -262,6 +262,6 @@ ul li a:hover {
     padding-top: 5px;
 }
 
-.icon1 ion-icon a:hover {
+.icon1 a ion-icon :hover {
     color: #ff7200;
 }
